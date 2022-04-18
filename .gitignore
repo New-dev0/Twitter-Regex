@@ -1,0 +1,8 @@
+.env
+
+test*
+*data
+delall*
+*json
+
+__pycache__
